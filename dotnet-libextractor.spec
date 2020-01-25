@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.mono
 Summary:	.NET bindings for libextractor
 Summary(pl.UTF-8):	Wiązania .NET do biblioteki libextractor
 Name:		dotnet-libextractor
